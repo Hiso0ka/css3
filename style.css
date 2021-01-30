@@ -1,0 +1,42 @@
+h1 {
+    font-family: 'Potta One';
+    color: yellow;
+    background-color: blue;
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+}
+
+p.uno {
+    color: white;
+    background-color: teal;
+    text-align: justify;
+    width: 25%;
+}
+
+p.dos {
+    color: yellow;
+    line-height: 150%;
+    text-align: justify;
+    width:50%;
+}
+
+span {
+    background-color: black;
+}
+
+hr {
+    height: 20px;
+    background-color: blue;
+}
+
+p.tres {
+    font-family: 'Coda Caption', sans-serif;
+    font-size: larger;
+}
+
+p.cuatro  {
+    font-family: 'Coda Caption', sans-serif;
+}
